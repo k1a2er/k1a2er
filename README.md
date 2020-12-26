@@ -16,3 +16,5 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-sniper%209nine-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/sniper9nine)
 
+[![Instagram](https://img.shields.io/badge/instagram-sniper.9nine-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/sniper.9nine/)
+
