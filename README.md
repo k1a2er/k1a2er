@@ -1,4 +1,4 @@
-### WELCOM TO MY PROFILE PLZ FOLOW ME  👋
+### WELCOM TO MY PROFILE PLZ FOLOW ME  👋 :
 <p align="center"><a href="https://github.com/k1a2er"><img src="xtp.gif" height='250' alt="k1a2er">
 
 <p align="center"><a href="https://github.com/k1a2er"><img src="coding.jpg" height='250' alt="k1a2er">
@@ -7,7 +7,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k1a2er&show_icons=true&theme=onedark)
 
-### HELLO IN MY WORLD
+### HELLO IN MY WORLD :
 <p align="center"><a href="https://github.com/k1a2er"><img src="leh.png" height='250' alt="k1a2er">
 
 ### Find Me on :
